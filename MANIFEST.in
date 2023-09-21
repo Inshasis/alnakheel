@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include alnakheel *.css
+recursive-include alnakheel *.csv
+recursive-include alnakheel *.html
+recursive-include alnakheel *.ico
+recursive-include alnakheel *.js
+recursive-include alnakheel *.json
+recursive-include alnakheel *.md
+recursive-include alnakheel *.png
+recursive-include alnakheel *.py
+recursive-include alnakheel *.svg
+recursive-include alnakheel *.txt
+recursive-exclude alnakheel *.pyc
